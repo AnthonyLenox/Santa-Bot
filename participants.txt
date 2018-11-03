@@ -1,2 +1,0 @@
-Participant name	participant UserID
-Ali	125391458613198848
