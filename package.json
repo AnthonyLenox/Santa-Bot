@@ -1,0 +1,8 @@
+{
+"name":"Santa-Bot",
+"version":"1.0.0",
+"description":"Bot for managing secret santa",
+"main":"bot.js",
+"author":"Anthony Lenox",
+"dependencies":{}
+}
